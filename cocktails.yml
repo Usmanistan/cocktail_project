@@ -1,0 +1,34 @@
+---
+- !ruby/object:Cocktail
+  name: Ginger Ante
+  recipe:
+  - Rum
+  - lime
+  - ginger/jaggery
+  - gingerbeer
+  category: :my_drinks
+- !ruby/object:Cocktail
+  name: Last Word
+  recipe:
+  - gin
+  - lime
+  - maraschino
+  - chartreuse
+  category: :classics
+- !ruby/object:Cocktail
+  name: Kingston Club
+  recipe:
+  - drambuie
+  - pineapple
+  - lime
+  - fernet
+  - angostura
+  category: :contemporary
+- !ruby/object:Cocktail
+  name: Bourbon Sour
+  recipe:
+  - bourbon
+  - eggwhite
+  - lemon
+  - sugar
+  category: :classics
